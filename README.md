@@ -23,15 +23,22 @@ A book search engine that uses MERN and Google
 
 # User Story 
 AS AN avid reader
+
 I WANT to search for new books to read
+
 SO THAT I can keep a list of books to purchase
 
 # Acceptance Criteria 
 When a USER opens the browser 
+
 THEN they can search for a book 
+
 Which will prompt them 10 results
-The USER can create an account using an email and password 
+
+The USER can create an account using an email and password
+
 And save their searches 
+
 THEN they can log in and see their saved searches 
 
 # Screenshots
