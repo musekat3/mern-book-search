@@ -27,6 +27,12 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
 # Acceptance Criteria 
+When a USER opens the browser 
+THEN they can search for a book 
+Which will prompt them 10 results
+The USER can create an account using an email and password 
+And save their searches 
+THEN they can log in and see their saved searches 
 
 # Screenshots
 ![Mern 1](https://github.com/musekat3/mern-book-search/assets/131501260/282bf046-b31c-4682-99c9-53c7ef90446d) 
