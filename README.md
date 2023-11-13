@@ -12,6 +12,9 @@ A book search engine that uses MERN and Google
 - React 
 - Javascript 
 - Vite 
+- Express
+- Node
+- GraphQL API 
 
 # Installation 
 - Clone repo
